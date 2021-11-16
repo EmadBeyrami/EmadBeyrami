@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on International scale projects
 
-![Emad's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmadBeyrami&show_icons=true)
-
 ### Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emadbeyrami/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emadbeyrami)
@@ -20,6 +18,9 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### My Github Overview
+![Emad's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmadBeyrami&show_icons=true)
 <!-- 
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sadafamininia99&repo=Hangman-Game&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
