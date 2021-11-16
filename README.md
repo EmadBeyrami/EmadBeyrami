@@ -2,7 +2,6 @@
 - 👀 I’m interested in iOS Development, ML and AI
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on International scale projects
-<center>
 ### Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emadbeyrami/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emadbeyrami)
@@ -21,7 +20,6 @@
 
 ### My Github Overview
 ![Emad's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmadBeyrami&show_icons=true)
- </center>
  
 <!-- 
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sadafamininia99&repo=Hangman-Game&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
@@ -33,7 +31,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
  -->
-<!-- <h1 align="center">Hi 👾, I'm Sadaf</h1> -->
 <!---
 EmadBeyrami/EmadBeyrami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
