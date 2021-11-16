@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### My Github Overview
-![Emad's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmadBeyrami&show_icons=true)
+![Emad's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmadBeyrami&show_icons=true&theme=dracula))
  
 <!-- 
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sadafamininia99&repo=Hangman-Game&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
