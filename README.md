@@ -2,6 +2,10 @@
 - 👀 I’m interested in iOS Development, ML and AI
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on International scale projects
+
+### Donate
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=FRY432D75E4Q2)
+
 ### Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emadbeyrami/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emadbeyrami)
