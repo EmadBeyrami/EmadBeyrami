@@ -25,7 +25,7 @@
 ### My Github Overview
 ![Emad's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmadBeyrami&show_icons=true&theme=radical)
 
-#### Buy me a coffee
+#### Buy me a coffee:
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=FRY432D75E4Q2)
  
 <!-- 
