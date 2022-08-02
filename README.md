@@ -5,6 +5,7 @@
 
 ### Donate
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=FRY432D75E4Q2)
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/bc1qrxwuurkws2c5tv7yapxhxk6qrwq752z086f2mm)](https://nowpayments.io/donation/emad)
 
 ### Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emadbeyrami/)
@@ -27,6 +28,7 @@
 
 #### Buy me a coffee:
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=FRY432D75E4Q2)
+[![crypto](https://en.bitcoin.it/w/images/en/7/74/BC_Rnd_64px.png)](https://nowpayments.io/donation/emad)
  
 <!-- 
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sadafamininia99&repo=Hangman-Game&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
