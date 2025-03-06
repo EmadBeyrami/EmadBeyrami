@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EmadBeyrami
 - 👀 I’m interested in iOS Development, ML and AI
-- 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on International scale projects
 
 ### Donate
