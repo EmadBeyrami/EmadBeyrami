@@ -7,7 +7,7 @@
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/bc1qrxwuurkws2c5tv7yapxhxk6qrwq752z086f2mm)](https://nowpayments.io/donation/emad)
 
 ### Social
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emadbeyrami/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/emadbeyrami/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emadbeyrami)
 [![Instagram](https://img.shields.io/badge/baywarded-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/baywarded)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@emad.beyrami)
